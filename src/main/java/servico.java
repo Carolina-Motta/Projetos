@@ -1,6 +1,6 @@
 public class servico {
 
-    puclic int codigo;
+    public int codigo;
     public String descricao;
     public String observacao;
 

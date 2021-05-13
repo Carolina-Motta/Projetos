@@ -1,6 +1,6 @@
 public class Raca {
 
-    puclic int codigo;
+    public int codigo;
     public String descricao;
 
     public int getCodigo() {
